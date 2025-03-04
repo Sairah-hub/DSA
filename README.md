@@ -1,2 +1,3 @@
 # DSA
-practicing 
+practicing!
+Here i am practicing LinkedList.
